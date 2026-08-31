@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on **Full-Stack Web Development**<br><br>🌱 Learning **React, Node.js, AI/ML & Cloud Computing**<br><br>👯 Open to **Open Source & Collaboration**<br><br>💬 Ask me about **C++, Python, DSA, Git and Github**<br><br>⚡ *Building projects is my favorite way to learn.*
+🔭 Working on **Full-Stack Web Development**<br><br>🌱 Learning **React, Node.js, AI/ML & Cloud Computing**<br><br>👯 Open to **Open Source & Collaboration**<br><br>💬 Ask me about **C++, DSA, Git and Github**<br><br>⚡ *Building projects is my favorite way to learn.*
 
 
 ## 🌐 Socials:
