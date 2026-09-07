@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently building full-stack web applications<br>🤝 I’m looking to collaborate on innovative web development projects<br>💡 I’m looking to improve my backend development and problem-solving skills<br>🌱 I’m currently learning Node.js, Express.js, MongoDB and backend architecture<br>💬 Ask me about JavaScript, React.js, Next.js, Node.js and web development<br>⚡ Fun fact: I love learning by building real-world projects
+🚀 I’m currently building full-stack web applications<br>🤝 I’m looking to collaborate on innovative web development projects<br>💡 I’m looking to improve my backend development and problem-solving skills<br>🌱 I’m currently learning Node.js, Express.js, MongoDB and backend architecture<br>💬 Ask me about JavaScript, React.js, Node.js and web development<br>⚡ Fun fact: I love learning by building real-world projects
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.pandey.28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey028) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush_pandey_28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeyayush84849@gmail.com) 
