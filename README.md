@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ==================== HEADER ==================== -->
+<!-- ===================== HERO ===================== -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:00C9A7&height=230&section=header&text=Ayush%20Pandey&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%" alt="Ayush Pandey" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects" alt="Typing SVG" />
 
 <br><br>
 
@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
-<br><br>
-
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
@@ -34,89 +32,154 @@
 
 ---
 
-## 👋 About Me
+<!-- ===================== ABOUT ME ===================== -->
 
-I'm a Computer Science student who learns best by building real things.  
-Currently going deeper into backend development while building full-stack projects.
+# 💫 About Me
 
-- 🚀 Building full-stack web applications
-- 🌱 Learning Node.js, Express.js and MongoDB
-- 🧠 Sharpening DSA and problem-solving with C++
-- 🤝 Open to collaborating on web development projects
-- 💬 Ask me about JavaScript, React.js, Node.js and web development
+🚀 I’m currently building **full-stack web applications**  
+🤝 I’m looking to collaborate on **innovative web development projects**  
+💡 I’m looking to improve my **backend development and problem-solving skills**  
+🌱 I’m currently learning **Node.js, Express.js, MongoDB and backend architecture**  
+💬 Ask me about **JavaScript, React.js, Node.js and web development**  
+⚡ Fun fact: **I love learning by building real-world projects**
 
 ---
 
-## 🚀 Featured Projects
+<!-- ===================== SOCIALS ===================== -->
+
+# 🌐 Socials
+
+<div align="left">
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ayush.pandey.28)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey028)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ayush_pandey_28)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyayush84849@gmail.com)
+
+</div>
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<h3>🐯 TigerResume</h3>
+### 🐯 TigerResume
 
-<p>
-Full-stack AI resume platform focused on helping users analyze and improve their resumes.
-</p>
+**AI-powered full-stack resume platform** for building, analyzing and improving resumes.
 
-<p>
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
+**Tech Stack**
 
-<p>
-<b>Features</b>
-</p>
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
 
-<ul>
-<li>ATS Score</li>
-<li>Job Match</li>
-<li>Resume Improvement</li>
-<li>Skill Gap Analysis</li>
-</ul>
+**Highlights**
 
-<p>
+- ATS Score
+- Job Match
+- Resume Improvement
+- Skill Gap Analysis
+
+<br>
+
 <a href="https://github.com/ayushpandey28">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code" />
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code" />
 </a>
-</p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🌐 Portfolio Website</h3>
+### 🌐 Portfolio Website
 
-<p>
-My personal developer portfolio showcasing projects, skills and developer work.
-</p>
+My personal developer portfolio showcasing my **projects, skills and experience**.
 
-<p>
-<img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+**Tech Stack**
 
-<p>
-<b>Features</b>
-</p>
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-<ul>
-<li>Responsive design</li>
-<li>Project showcase</li>
-<li>Skills & profile</li>
-<li>Resume & contact</li>
-</ul>
+**Highlights**
 
-<p>
+- Responsive design
+- Project showcase
+- Skills & experience
+- Resume & contact
+
+<br>
+
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
 <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo" />
 </a>
-</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📄 TigerPDF
+
+Full-stack PDF platform for managing PDF-related workflows.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+**Highlights**
+
+- PDF upload & management
+- User authentication
+- User history
+- Dashboard
+
+<br>
+
+<a href="https://github.com/ayushpandey28">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📈 MarketSignal
+
+Full-stack platform focused on **market signals, product demand and trend analysis**.
+
+**Tech Stack**
+
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+
+**Highlights**
+
+- Demand signals
+- Trend analysis
+- Product data
+- Price alerts
+- Wishlist
+
+<br>
+
+<a href="https://github.com/ayushpandey28/MarketSignal">
+<img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code" />
+</a>
 
 </td>
 
@@ -125,36 +188,68 @@ My personal developer portfolio showcasing projects, skills and developer work.
 
 ---
 
-## 🛠️ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,js,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github,vercel&perline=7" alt="Tech Stack" />
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<br>
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<br>
+
+### Backend & Database
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
+
+### Tools & Deployment
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ===================== GITHUB STATS ===================== -->
+
+# 📊 GitHub Stats
 
 <div align="center">
 
 <img
+src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
 height="170"
-src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
 alt="GitHub Stats"
 />
 
 <img
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
 height="170"
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=tokyonight&hide_border=true&layout=compact"
 alt="Top Languages"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com/?user=ayushpandey28&theme=tokyonight&hide_border=true"
+src="https://streak-stats.demolab.com/?user=ayushpandey28&theme=dark&hide_border=true"
 alt="GitHub Streak"
 />
 
@@ -162,25 +257,29 @@ alt="GitHub Streak"
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ===================== CONTRIBUTION ===================== -->
+
+# 🐍 Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/output/github-snake-dark.svg"
-  />
 
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/output/github-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/output/github-snake-dark.svg"
+/>
 
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/output/github-snake.svg"
-  />
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/output/github-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/output/github-snake.svg"
+/>
+
 </picture>
 
 </div>
@@ -192,23 +291,19 @@ alt="GitHub Streak"
 ### 📫 Let's build something together
 
 <a href="mailto:pandeyayush84849@gmail.com">
-<img src="https://img.shields.io/badge/Say%20Hello-6C63FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=ayushpandey28&style=flat-square&color=6C63FF&label=Profile+Views" alt="Profile Views" />
+[![](https://komarev.com/ghpvc/?username=ayushpandey28&style=flat-square&color=6C63FF&label=Profile+Views)](https://visitcount.itsvg.in)
 
 <br><br>
 
-<sub>Building • Learning • Improving</sub>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:00C9A7&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:3B82F6,100:00C9A7&height=100&section=footer" width="100%" alt="footer" />
 
 </div>
