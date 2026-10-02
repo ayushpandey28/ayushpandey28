@@ -4,7 +4,7 @@
 
 <img
   src="./dark.svg"
-  width="115%"
+  width="200%"
   alt="Ayush Pandey - Full Stack Developer"
 />
 
