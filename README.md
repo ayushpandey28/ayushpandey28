@@ -1,18 +1,42 @@
-# 💫 About Me:
-🚀 I’m currently building full-stack web applications<br>🤝 I’m looking to collaborate on innovative web development projects<br>💡 I’m looking to improve my backend development and problem-solving skills<br>🌱 I’m currently learning Node.js, Express.js, MongoDB and backend architecture<br>💬 Ask me about JavaScript, React.js, Node.js and web development<br>⚡ Fun fact: I love learning by building real-world projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Ayush Pandey, Full Stack Developer" src="dark.svg" width="100%">
+</picture>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayush.pandey.28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushpandey028) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayush_pandey_28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeyayush84849@gmail.com) 
+<p align="center">
+  <a href="https://ayush-portfolio-lyart-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/ayushpandey028"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/ayush_pandey__28/"><img src="https://img.shields.io/badge/LeetCode-f89f1b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+</p>
 
+## About
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ayushpandey28&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+CS undergraduate at KIET Group of Institutions (B.Tech CSE, 2028). I build full-stack web apps and practice DSA in C++. Looking for a software development internship.
 
----
-[![](https://komarev.com/ghpvc/?username=ayushpandey28&icon=0&color=0)](https://visitcount.itsvg.in)
+## Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->             meri personal details es code se le kar esme create karo prompt ke according
+| Project | What it is | Links |
+| --- | --- | --- |
+| **TigerPDF** | Full-stack PDF management platform built with React, Node, Express and MongoDB | [Live](https://tigerpdf.vercel.app/) · [Code](https://github.com/ayushpandey28/TigerPDF) |
+| **TigerResume** | Resume project | [Live](https://tiger-resume.vercel.app/) · [Code](https://github.com/ayushpandey28/TigerResume) |
+| **Portfolio** | My personal site | [Live](https://ayush-portfolio-lyart-eight.vercel.app/) |
+
+## Tech stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushpandey28&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats" height="160">
+</p>
