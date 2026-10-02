@@ -34,9 +34,6 @@
 </a>
 
 </div>
-
-<br>
-
 ---
 
 # 💫 About Me
@@ -86,7 +83,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 &nbsp;
@@ -96,7 +93,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 &nbsp;
@@ -122,7 +119,7 @@
 <h3>🐯 TigerResume</h3>
 
 <p>
-Full-stack AI resume platform for building and improving resumes.
+Full-stack AI resume platform for building, analyzing and improving resumes.
 </p>
 
 <p>
@@ -138,8 +135,12 @@ Full-stack AI resume platform for building and improving resumes.
 
 <br>
 
-<a href="https://github.com/ayushpandey28">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code"/>
+<a href="https://tiger-resume.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="TigerResume Live Demo"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayushpandey28/TigerResume">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code"/>
 </a>
 
 </td>
@@ -165,8 +166,12 @@ Full-stack PDF management platform for handling PDF-related workflows.
 
 <br>
 
-<a href="https://github.com/ayushpandey28">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code"/>
+<a href="https://tigerpdf.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="TigerPDF Live Demo"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayushpandey28/TigerPDF">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code"/>
 </a>
 
 </td>
@@ -196,8 +201,12 @@ Full-stack platform focused on market signals, product demand and trend analysis
 
 <br>
 
+<a href="https://market-signal-twentyeight.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="MarketSignal Live Demo"/>
+</a>
+&nbsp;
 <a href="https://github.com/ayushpandey28/MarketSignal">
-  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code"/>
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code"/>
 </a>
 
 </td>
@@ -222,8 +231,12 @@ My personal portfolio showcasing projects, skills and developer work.
 
 <br>
 
-<a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-  <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<a href="https://ayush-portfolio-twentyeight.vercel.app/">
+<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo"/>
+</a>
+&nbsp;
+<a href="https://github.com/ayushpandey28/ayush-portfolio">
+<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Code"/>
 </a>
 
 </td>
@@ -297,12 +310,7 @@ alt="Portfolio"
 />
 </a>
 <br><br>
-<!-- <img
-src="https://komarev.com/ghpvc/?username=ayushpandey28&style=flat-square&color=6C63FF&label=Profile+Views"
-alt="Profile Views"
-/> -->
 <sub>Building • Learning • Improving</sub>
-<!-- <br><br> -->
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=80&section=footer"
 width="100%"
