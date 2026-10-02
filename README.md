@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=230&section=header&text=Ayush%20Pandey&fontSize=58&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&height=45&lines=Building+full-stack+web+apps;Learning+Node.js+%2B+Express+%2B+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=600&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects" alt="Typing SVG" />
 
 <br>
 
@@ -75,19 +75,16 @@ I'm a Computer Science student who learns best by building real things. Right no
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
 
 <br>
 
 <img src="https://streak-stats.demolab.com/?user=ayushpandey28&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushpandey28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-
 </div>
 
+<!--
 ---
 
 ## 🐍 Contribution Snake
@@ -101,6 +98,7 @@ I'm a Computer Science student who learns best by building real things. Right no
 </picture>
 
 </div>
+-->
 
 ---
 
