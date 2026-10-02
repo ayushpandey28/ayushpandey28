@@ -300,7 +300,6 @@ My personal portfolio showcasing projects, skills and developer work.
 ### 📫 Let's build something together
 
 <br>
-
 <a href="mailto:pandeyayush84849@gmail.com">
   <img
     src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
@@ -314,17 +313,12 @@ My personal portfolio showcasing projects, skills and developer work.
     alt="Portfolio"
   />
 </a>
-
-<br><br>
-
+<br>
 <sub>Building • Learning • Improving</sub>
-
-<br><br>
-
+<br>
 <img
   src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=80&section=footer"
   width="100%"
   alt="Footer"
 />
-
 </div>
