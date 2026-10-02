@@ -300,20 +300,13 @@ src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=verc
 alt="Portfolio"
 />
 </a>
-
 <br><br>
-
 <!-- <img
 src="https://komarev.com/ghpvc/?username=ayushpandey28&style=flat-square&color=6C63FF&label=Profile+Views"
 alt="Profile Views"
 /> -->
-
-<br><br>
-
 <sub>Building • Learning • Improving</sub>
-
-<br><br>
-
+<!-- <br><br> -->
 <img
 src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=80&section=footer"
 width="100%"
