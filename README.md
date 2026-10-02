@@ -303,10 +303,10 @@ alt="Portfolio"
 
 <br><br>
 
-<img
+<!-- <img
 src="https://komarev.com/ghpvc/?username=ayushpandey28&style=flat-square&color=6C63FF&label=Profile+Views"
 alt="Profile Views"
-/>
+/> -->
 
 <br><br>
 
