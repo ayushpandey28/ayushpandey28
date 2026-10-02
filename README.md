@@ -7,16 +7,12 @@
   width="100%"
   alt="Ayush Pandey - Full Stack Developer"
 />
-
-<br><br>
-
+<!-- <br><br> -->
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects"
   alt="Typing SVG"
 />
-
-<br><br>
-
+<!-- <br><br> -->
 <a href="https://linkedin.com/in/ayushpandey028">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
