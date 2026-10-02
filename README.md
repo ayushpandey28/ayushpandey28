@@ -3,41 +3,43 @@
 <!-- ===================== HERO ===================== -->
 
 <img
-src="https://raw.githubusercontent.com/ayushpandey28/ayushpandey28/main/dark.svg"
-width="100%"
-alt="Ayush Pandey - Full Stack Developer"
+  src="./dark.svg"
+  width="100%"
+  alt="Ayush Pandey - Full Stack Developer"
 />
 
 <br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects"
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects"
+  alt="Typing SVG"
 />
 
 <br><br>
 
 <a href="https://linkedin.com/in/ayushpandey028">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://x.com/ayush_pandey_28">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/ayush.pandey.28">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="mailto:pandeyayush84849@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
@@ -57,19 +59,19 @@ alt="Typing SVG"
 <div align="center">
 
 <a href="https://instagram.com/ayush.pandey.28">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://linkedin.com/in/ayushpandey028">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="https://x.com/ayush_pandey_28">
-<img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X"/>
 </a>
-&nbsp;
+&nbsp;&nbsp;
 <a href="mailto:pandeyayush84849@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -81,16 +83,31 @@ alt="Typing SVG"
 <div align="center">
 
 <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+&nbsp;
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+&nbsp;
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+&nbsp;
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+&nbsp;
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 
 </div>
@@ -101,7 +118,7 @@ alt="Typing SVG"
 
 <div align="center">
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -119,11 +136,14 @@ Full-stack AI resume platform for building and improving resumes.
 </p>
 
 <p>
-<b>ATS Score • Job Match • Resume Improvement • Skill Gap</b>
+<b>ATS Score</b> • <b>Job Match</b><br>
+<b>Resume Improvement</b> • <b>Skill Gap</b>
 </p>
 
+<br>
+
 <a href="https://github.com/ayushpandey28">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code"/>
 </a>
 
 </td>
@@ -143,11 +163,14 @@ Full-stack PDF management platform for handling PDF-related workflows.
 </p>
 
 <p>
-<b>PDF Management • Authentication • History • Dashboard</b>
+<b>PDF Management</b> • <b>Authentication</b><br>
+<b>History</b> • <b>Dashboard</b>
 </p>
 
+<br>
+
 <a href="https://github.com/ayushpandey28">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code"/>
 </a>
 
 </td>
@@ -171,11 +194,14 @@ Full-stack platform focused on market signals, product demand and trend analysis
 </p>
 
 <p>
-<b>Demand Signals • Trends • Products • Price Alerts • Wishlist</b>
+<b>Demand Signals</b> • <b>Trends</b><br>
+<b>Products</b> • <b>Price Alerts</b> • <b>Wishlist</b>
 </p>
 
+<br>
+
 <a href="https://github.com/ayushpandey28/MarketSignal">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code"/>
 </a>
 
 </td>
@@ -194,11 +220,14 @@ My personal portfolio showcasing projects, skills and developer work.
 </p>
 
 <p>
-<b>Responsive Design • Projects • Skills • Resume</b>
+<b>Responsive Design</b> • <b>Projects</b><br>
+<b>Skills</b> • <b>Resume</b>
 </p>
 
+<br>
+
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 </td>
@@ -214,23 +243,37 @@ My personal portfolio showcasing projects, skills and developer work.
 
 <div align="center">
 
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
 <img
-width="48%"
 src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+width="100%"
 alt="GitHub Stats"
 />
 
+</td>
+
+<td width="50%" align="center">
+
 <img
-width="48%"
 src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=dark&hide_border=true&layout=compact"
+width="100%"
 alt="Top Languages"
 />
 
-<br><br>
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <img
-width="65%"
 src="https://streak-stats.demolab.com/?user=ayushpandey28&theme=dark&hide_border=true"
+width="70%"
 alt="GitHub Streak"
 />
 
@@ -245,11 +288,19 @@ alt="GitHub Streak"
 <br>
 
 <a href="mailto:pandeyayush84849@gmail.com">
-<img src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Say Hello"/>
+  <img
+  src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  alt="Say Hello"
+  />
 </a>
-&nbsp;
+
+&nbsp;&nbsp;
+
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <img
+  src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
+  alt="Portfolio"
+  />
 </a>
 
 <br><br>
