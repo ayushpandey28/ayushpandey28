@@ -8,14 +8,14 @@
   alt="Ayush Pandey - Full Stack Developer"
 />
 
-<br><br>
+<br>
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects"
   alt="Typing SVG"
 />
 
-<br><br>
+<br>
 
 <a href="https://linkedin.com/in/ayushpandey028">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -88,7 +88,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
 &nbsp;
@@ -98,7 +98,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 &nbsp;
