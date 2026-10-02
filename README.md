@@ -288,19 +288,17 @@ alt="GitHub Streak"
 <br>
 
 <a href="mailto:pandeyayush84849@gmail.com">
-  <img
-  src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Say Hello"
-  />
+<img
+src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+alt="Say Hello"
+/>
 </a>
-
 &nbsp;&nbsp;
-
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-  <img
-  src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
-  alt="Portfolio"
-  />
+<img
+src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
+alt="Portfolio"
+/>
 </a>
 
 <br><br>
@@ -312,8 +310,12 @@ alt="Profile Views"
 
 <br><br>
 
+<sub>Building • Learning • Improving</sub>
+
+<br><br>
+
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=100&section=footer"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=80&section=footer"
 width="100%"
 alt="Footer"
 />
