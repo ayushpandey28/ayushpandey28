@@ -7,12 +7,16 @@
   width="100%"
   alt="Ayush Pandey - Full Stack Developer"
 />
+
 <br><br>
+
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=650&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Building+full-stack+web+apps;Learning+Node.js%2C+Express+and+MongoDB;Solving+problems+with+C%2B%2B+and+DSA;Learning+by+building+real+projects"
   alt="Typing SVG"
 />
+
 <br><br>
+
 <a href="https://linkedin.com/in/ayushpandey028">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -34,6 +38,7 @@
 </a>
 
 </div>
+
 ---
 
 # 💫 About Me
@@ -136,11 +141,11 @@ Full-stack AI resume platform for building, analyzing and improving resumes.
 <br>
 
 <a href="https://tiger-resume.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="TigerResume Live Demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="TigerResume Live Demo"/>
 </a>
 &nbsp;
 <a href="https://github.com/ayushpandey28/TigerResume">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerResume Code"/>
 </a>
 
 </td>
@@ -167,11 +172,11 @@ Full-stack PDF management platform for handling PDF-related workflows.
 <br>
 
 <a href="https://tigerpdf.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="TigerPDF Live Demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="TigerPDF Live Demo"/>
 </a>
 &nbsp;
 <a href="https://github.com/ayushpandey28/TigerPDF">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="TigerPDF Code"/>
 </a>
 
 </td>
@@ -202,11 +207,11 @@ Full-stack platform focused on market signals, product demand and trend analysis
 <br>
 
 <a href="https://market-signal-twentyeight.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="MarketSignal Live Demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="MarketSignal Live Demo"/>
 </a>
 &nbsp;
 <a href="https://github.com/ayushpandey28/MarketSignal">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="MarketSignal Code"/>
 </a>
 
 </td>
@@ -232,11 +237,11 @@ My personal portfolio showcasing projects, skills and developer work.
 <br>
 
 <a href="https://ayush-portfolio-twentyeight.vercel.app/">
-<img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo"/>
+  <img src="https://img.shields.io/badge/Live_Demo-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Live Demo"/>
 </a>
 &nbsp;
 <a href="https://github.com/ayushpandey28/ayush-portfolio">
-<img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Code"/>
+  <img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Code"/>
 </a>
 
 </td>
@@ -258,9 +263,9 @@ My personal portfolio showcasing projects, skills and developer work.
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
-width="100%"
-alt="GitHub Stats"
+  src="https://github-readme-stats.shion.dev/api?username=ayushpandey28&theme=dark&hide_border=true&include_all_commits=true&count_private=true"
+  width="100%"
+  alt="GitHub Stats"
 />
 
 </td>
@@ -268,9 +273,9 @@ alt="GitHub Stats"
 <td width="50%" align="center">
 
 <img
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=dark&hide_border=true&layout=compact"
-width="100%"
-alt="Top Languages"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushpandey28&theme=dark&hide_border=true&layout=compact"
+  width="100%"
+  alt="Top Languages"
 />
 
 </td>
@@ -281,9 +286,9 @@ alt="Top Languages"
 <br>
 
 <img
-src="https://streak-stats.demolab.com/?user=ayushpandey28&theme=dark&hide_border=true"
-width="70%"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com/?user=ayushpandey28&theme=dark&hide_border=true"
+  width="70%"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -297,24 +302,29 @@ alt="GitHub Streak"
 <br>
 
 <a href="mailto:pandeyayush84849@gmail.com">
-<img
-src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-alt="Say Hello"
-/>
+  <img
+    src="https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Say Hello"
+  />
 </a>
 &nbsp;&nbsp;
 <a href="https://ayush-portfolio-lyart-eight.vercel.app/">
-<img
-src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
-alt="Portfolio"
-/>
+  <img
+    src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"
+    alt="Portfolio"
+  />
 </a>
+
 <br><br>
+
 <sub>Building • Learning • Improving</sub>
+
+<br><br>
+
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=80&section=footer"
-width="100%"
-alt="Footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=80&section=footer"
+  width="100%"
+  alt="Footer"
 />
 
 </div>
